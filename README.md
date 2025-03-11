@@ -26,8 +26,10 @@ lista de nombres de amigos para realizar un sorteo aleatorio y determinar quién
 
 <h2>Imágenes de ejecución </h2>
 
-![image](https://github.com/user-attachments/assets/5ae284a9-26f3-40ef-b5c6-2054dfc95bac)
+![image](https://github.com/user-attachments/assets/7896ddc6-20e5-4960-a813-9564d3d890d7)
 
-![image](https://github.com/user-attachments/assets/df3a86a5-c2f1-41a0-803f-f094fc4ba6df)
+
+![image](https://github.com/user-attachments/assets/48619656-62f4-4d94-8835-f727bcdcf3e6)
+
 
 
