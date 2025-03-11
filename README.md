@@ -27,5 +27,4 @@ lista de nombres de amigos para realizar un sorteo aleatorio y determinar quién
 <h2>Imágenes de referencia </h2>
 
 [![image.png](https://i.postimg.cc/GpwCjp1g/image.png)](https://postimg.cc/fVKpzDyY)
-
 [![image.png](https://i.postimg.cc/nLY6YY2M/image.png)](https://postimg.cc/mckXT90G)
