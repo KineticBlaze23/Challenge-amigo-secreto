@@ -24,7 +24,10 @@ lista de nombres de amigos para realizar un sorteo aleatorio y determinar quién
   
 *- Disfrutar del juego*
 
-<h2>Imágenes de referencia </h2>
+<h2>Imágenes de ejecución </h2>
 
-[![image.png](https://i.postimg.cc/GpwCjp1g/image.png)](https://postimg.cc/fVKpzDyY)
-[![image.png](https://i.postimg.cc/nLY6YY2M/image.png)](https://postimg.cc/mckXT90G)
+![image](https://github.com/user-attachments/assets/5ae284a9-26f3-40ef-b5c6-2054dfc95bac)
+
+![image](https://github.com/user-attachments/assets/df3a86a5-c2f1-41a0-803f-f094fc4ba6df)
+
+
